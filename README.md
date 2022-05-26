@@ -6,7 +6,9 @@ I am an enthusiastic programmer, who loves developing Android Application, Websi
 
 Skills: HTML & CSS / PYTHON / JAVA / C / DJANGO REST FRAMEWORK
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on **Mobile Application Development** 
+- 🌱 I’m currently learning **SQL, Django, Django Rest Framework** 
+- 📫 How to reach me: imailwsm@gmail.com 
 
 
 
