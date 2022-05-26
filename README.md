@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Wasim Ansari
+#### I am an enthusiastic learner
+![I am an enthusiastic learner](https://user-images.githubusercontent.com/20864934/112645749-933b4000-8e25-11eb-8fc6-5c57c5e6e1ba.jpg)
 
-<!--
-**codewasim/codewasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an enthusiastic programmer, who loves developing Android Application, Websites, Web Applications and coding. Interested in Artificial Intelligence and Machine learning with a positive gesture towards Application Development.
 
-Here are some ideas to get you started:
+Skills: HTML & CSS / PYTHON / JAVA / C / DJANGO REST FRAMEWORK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
